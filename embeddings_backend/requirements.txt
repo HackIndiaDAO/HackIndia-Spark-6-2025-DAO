@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy
+faiss-cpu
+requests
+appwrite
+python-magic
+python-docx
+python-pptx
+PyMuPDF

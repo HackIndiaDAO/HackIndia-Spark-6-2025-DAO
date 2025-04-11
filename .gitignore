@@ -1,0 +1,5 @@
+/embeddings_frontend/node_modules
+/embeddings_backend/__pycache__
+/embeddings_backend/embeddings/__pycache__
+/embeddings_backend/uploads/
+/embeddings_backend/utils/__pycache__
