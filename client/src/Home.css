@@ -1,0 +1,45 @@
+.home-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #121212;
+    padding: 20px;
+  }
+  
+  .home-container {
+    background-color: #1e1e1e;
+    padding: 40px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 0 15px rgba(0, 191, 255, 0.3);
+  }
+  
+  .main-title {
+    font-size: 28px;
+    color: #00bfff;
+    margin-bottom: 30px;
+    font-weight: bold;
+  }
+  
+  .button-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .button-grid button {
+    background-color: #00bfff;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-grid button:hover {
+    background-color: #009fd4;
+  }
+  
